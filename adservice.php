@@ -2,6 +2,8 @@
 
 <?php
 
+////to be adjusted
+
 //get the page referer
 $page_ref=$_SERVER['HTTP_REFERER'];
 $page_url_encoded=  urlencode($page_ref);
